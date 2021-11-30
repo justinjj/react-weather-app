@@ -65,9 +65,13 @@
   grid-template-rows: auto;
   grid-gap: 20px;
 }
-.displayweather .weatherdetails .section1 {
+.displayweather .weatherdetails .section {
   justify-self: right;
-  width: 300px;
+  width: 350px;
+}
+
+.displayweather .weatherdetails .section table {
+    width: 100%;
 }
 
 h4 {

@@ -1,0 +1,19 @@
+h3 {
+    margin: 50px 0 0 0;
+    padding: 20px;
+    background: rgb(245, 242, 242);
+}
+
+.durationTable {
+    width: 100%;
+}
+
+.durationTable td,
+.durationTable th {
+    padding: 10px;
+}
+
+.durationTable td:first-child,
+.durationTable th:first-child {
+    text-align: left;
+}

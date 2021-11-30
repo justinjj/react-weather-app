@@ -1,11 +1,11 @@
 .weather {
+  margin: 0 auto;
   margin-top: 20px;
   border: 3px dashed grey;
   border-radius: 20px;
   padding-bottom: 30px;
-  width: max-content;
+  max-width: 900px;
   padding: 0px 20px 20px 20px;
-  margin-left: 25%;
 }
 .weather .title {
   font-size: 4rem;
@@ -19,7 +19,7 @@
   padding: 10px;
   border: none;
   border-bottom: 2px dashed rgb(2, 57, 88);
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .weather form input:focus {
