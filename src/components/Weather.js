@@ -7,7 +7,7 @@ import DisplayWeakOverview from "./displayWeakOverview";
 
 function Weather() {
 
-    const APIKEY = '68ce3191897cf3d62632c58d55bd2a19';
+    const APIKEY = '';
 
     const [form, setForm] = useState({
         city: "",
